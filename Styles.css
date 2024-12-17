@@ -1,7 +1,6 @@
 /* Set a black background with a blur effect */
 body {
     background-color: black;
-    background-image: url('your-image.jpg'); /* Optional: You can add a background image here */
     background-size: cover;
     background-position: center;
     height: 100vh;
